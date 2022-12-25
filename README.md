@@ -1,1 +1,1 @@
-# okul
+# basit-site
